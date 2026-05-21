@@ -32,6 +32,6 @@ The most rewarding part of this project wasn't when everything worked—it was w
 ---
 
 ##  Where I Am & What's Next
- **Phase 1:** Mastering Local Linux Virtualization & CLI Essentials
- **Phase 2:** Getting Hands-On with AWS Core Infrastructure (EC2, S3, Manual VPCs)
- **Phase 3:** Transitioning to DevOps (Taking this exact manual architecture and automating it completely with Terraform) 
+ * **Phase 1:** Mastering Local Linux Virtualization & CLI Essentials
+ * **Phase 2:** Getting Hands-On with AWS Core Infrastructure (EC2, S3, Manual VPCs)
+ * **Phase 3:** Transitioning to DevOps (Taking this exact manual architecture and automating it completely with Terraform) 
